@@ -6,7 +6,7 @@ import ActionProvider from './ActionProvider';
 import MessageParser from './MessageParser';
 import config from './config';
 
-    console.log(process.env.REACT_APP_API_KEY);
+// console.log(process.env.REACT_APP_API_KEY);
 
 function App() {
 
